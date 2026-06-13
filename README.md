@@ -4,7 +4,7 @@ Engineer by day, tinkerer by night. I automate cloud, network, and security infr
 
 <!-- COMMITCHI:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cludes/commitchi/master/commitchi-dark.svg?v=5e6aca22">
-  <img alt="My Commitchi" src="https://raw.githubusercontent.com/Cludes/commitchi/master/commitchi.svg?v=5e6aca22">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cludes/commitchi/master/commitchi-dark.svg?v=8b038864">
+  <img alt="My Commitchi" src="https://raw.githubusercontent.com/Cludes/commitchi/master/commitchi.svg?v=8b038864">
 </picture>
 <!-- COMMITCHI:END -->
